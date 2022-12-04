@@ -1,4 +1,10 @@
-### Hi there 👋
+## 💡 Projects
+- Kaggle-Airbnb New User Bookings: [Code](https://github.com/imirenechen/Airbnb-New-User-Bookings/blob/main/Airbnb%20New%20User%20Bookings%20Practice_ver04.ipynb) and [Summary report](https://drive.google.com/drive/u/0/folders/1FqEzLdWzjVam3XVxWqu2sxuNV9NfyYwm)  
+- ML100Marathon-安隆公司詐欺案資料集: [Code](https://github.com/imirenechen/ML100Days/blob/main/Day_051~053_Midterm_Ver02.ipynb)
+- ML100Marathon-花朵辨識: [Code](https://github.com/imirenechen/ML100Days/blob/main/Day_101~103_Final_Ver03(Colab).ipynb)  
+
+## 🔗 More Information
+- Medium: https://medium.com/@imirene
 
 <!--
 **imirenechen/imirenechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
