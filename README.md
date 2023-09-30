@@ -1,10 +1,7 @@
 ## 💡 Projects
-- Kaggle-[Airbnb New User Bookings (Classification)](https://github.com/imirenechen/Airbnb-New-User-Bookings/blob/main/Airbnb%20New%20User%20Bookings%20Practice_ver04.ipynb)
-- Kaggle-[Santander Customer Transaction Prediction (Classification)](https://github.com/imirenechen/Kaggle/blob/main/Santander%20Customer%20Transaction%20Prediction_ver01.ipynb)
-- Kaggle-[Walmart Store Sales Forecasting (Regression)](https://github.com/imirenechen/Kaggle/blob/main/Walmart%20Store%20Sales%20Forecasting_ver01.ipynb)
-- Kaggle-[Instacart Market Basket Analysis (Classification)](https://github.com/imirenechen/Kaggle/blob/main/Instacart%20Market%20Basket%20Analysis_ver01.ipynb)
-- ML100Marathon-[安隆公司詐欺案資料集](https://github.com/imirenechen/ML100Days/blob/main/Day_051~053_Midterm_Ver02.ipynb)
-- ML100Marathon-[花朵辨識](https://github.com/imirenechen/ML100Days/blob/main/Day_101~103_Final_Ver03(Colab).ipynb)  
+- [Project-Adversarial Attack and Defense](https://github.com/imirenechen/Adversarial)
+- [Kaggle-Airbnb New User Bookings (Classification)](https://github.com/imirenechen/Airbnb-New-User-Bookings/blob/main/Airbnb%20New%20User%20Bookings%20Practice_ver04.ipynb)
+- [Other Kaggle Practice](https://github.com/imirenechen/Kaggle)
 - [MySQL50 Questions](https://github.com/imirenechen/MySQL50)
 
 ## 🔗 Blog
